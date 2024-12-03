@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DoublyLL",
+            "request": "launch",
+            "mainClass": "Linkedlist.DoublyLL",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLinkedlist",
+            "request": "launch",
+            "mainClass": "Linkedlist.DoublyLinkedlist",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Singlyllinkedlist",
+            "request": "launch",
+            "mainClass": "Linkedlist.Singlyllinkedlist",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchTree",
+            "request": "launch",
+            "mainClass": "BinarySearchTree",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "InfixToPostfix",
+            "request": "launch",
+            "mainClass": "InfixToPostfix",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Paranthesischeker",
+            "request": "launch",
+            "mainClass": "Paranthesischeker",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "P1",
+            "request": "launch",
+            "mainClass": "Patterns.P1",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "P2",
+            "request": "launch",
+            "mainClass": "Patterns.P2",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "QueueArray",
+            "request": "launch",
+            "mainClass": "QueueArray",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Binarysearch",
+            "request": "launch",
+            "mainClass": "Searching.Binarysearch",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Linearsearch",
+            "request": "launch",
+            "mainClass": "Searching.Linearsearch",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Bubblesort",
+            "request": "launch",
+            "mainClass": "Sorting.Bubblesort",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "Sorting.Insertion",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Mergesortcode",
+            "request": "launch",
+            "mainClass": "Sorting.Mergesortcode",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Quicksort",
+            "request": "launch",
+            "mainClass": "Sorting.Quicksort",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "Sorting.Selection",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "StackArray",
+            "request": "launch",
+            "mainClass": "StackArray",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Stackk1",
+            "request": "launch",
+            "mainClass": "Stackk1",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "basicprograms.Anagram",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Atendzeroes",
+            "request": "launch",
+            "mainClass": "basicprograms.Atendzeroes",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Countwords",
+            "request": "launch",
+            "mainClass": "basicprograms.Countwords",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "basicprograms.Factorial",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Largestnum",
+            "request": "launch",
+            "mainClass": "basicprograms.Largestnum",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Removeduplicates",
+            "request": "launch",
+            "mainClass": "basicprograms.Removeduplicates",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest",
+            "request": "launch",
+            "mainClass": "basicprograms.SecondLargest",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Shiftall0toright",
+            "request": "launch",
+            "mainClass": "basicprograms.Shiftall0toright",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Specifiedpattern",
+            "request": "launch",
+            "mainClass": "basicprograms.Specifiedpattern",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Thirdlargest",
+            "request": "launch",
+            "mainClass": "basicprograms.Thirdlargest",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "Unionofarrays",
+            "request": "launch",
+            "mainClass": "basicprograms.Unionofarrays",
+            "projectName": "Datastructers_770b8d79"
+        },
+        {
+            "type": "java",
+            "name": "checksortedornot",
+            "request": "launch",
+            "mainClass": "basicprograms.checksortedornot",
+            "projectName": "Datastructers_770b8d79"
+        }
+    ]
+}
